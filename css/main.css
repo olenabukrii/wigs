@@ -98,10 +98,10 @@
 .col {
   grid-area: 1 / 1 / 2 / 3;
   grid-area: 2 / 1 / 3 / 3;
+  grid-area: 1 / 3 / 3 / 3;
+  grid-area: 1 / 4 / 3 / 5;
   grid-area: 3 / 1 / 5 / 2;
   grid-area: 3 / 2 / 5 / 3;
-  grid-area: 1 / 3 / 3 / 4;
-  grid-area: 1 / 4 / 3 / 5;
   grid-area: 3 / 3 / 4 / 5;
   grid-area: 4 / 3 / 5 / 5;
 }
